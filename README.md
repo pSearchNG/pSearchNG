@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pSearchNG
+- 👀 I’m interested in cyber security and protecting ones privacy.
+- 🌱 I’m currently working on building a search engine for true unfiltered freedom.
+- 💞️ I’m looking to collaborate on securing this search engine when it is ready
+- ⚡ Fun fact: I only became interested in securing ones info after I fell victim as a kid.
